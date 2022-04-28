@@ -1,0 +1,41 @@
+.o{
+	font: oblique bold 320% cursive;;
+	color: #B21346;
+}
+
+
+div.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #449;
+  color: #fff;
+  padding: 15px;
+}
+
+div.noticia img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+
+div.noticia img.derecha {
+  float: right;
+  margin-left: 20px;
+}
+
+div.reset {
+  clear: both;
+}
+
+.izquierda{
+	width: 600px;
+     heigh: 200px; 
+     position: relative;
+     left: 200px;
+}
+
+.derecha{
+	width: 600px;
+     heigh: 200px; 
+     position: relative;
+     left: 200px;
+}
